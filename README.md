@@ -1,5 +1,5 @@
-### Hi There, I'm Aarush - You can find me [Portfolio][website] here 👋 or [Linkedin][website] here.
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://www.linkedin.com/in/aarush-thapa/.com)](https://www.linkedin.com/in/aarush-thapa/)
+### Hi There, I'm Aarush - You can find me [Portfolio] here 👋 or [Linkedin] here.
+
 
 ### I am a Developer.
 
