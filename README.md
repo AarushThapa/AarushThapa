@@ -1,1 +1,32 @@
-### Hi There, I'm Aarush - You can find me here: [https://www.linkedin.com/in/aarush-thapa/]
+# Hello!
+
+## I am [Aarush Thapa](website)
+
+### I am a Software Developer, Creator and a musician
+
+- I am currently involved in developing Django Applications
+- I am currently learning more about python programming
+
+## Connect with me
+* 
+* [LinkedIn](linkedin)
+* [Instagram](instagram)
+* [Facebook](facebook)
+* [Behance](behance)
+
+<br>
+
+### Language and Tools
+* Python, Javascript, Java
+* Django Framework, Spring Boot
+* React JS
+* MySQL, PostgreSQL, SQLite
+* REST API 
+* AWS, Heroku
+* Docker 
+
+[website]: https://aarushthapa.com.np/
+[linkedin]: https://www.linkedin.com/in/aarush-thapa/
+[instagram]: https://www.instagram.com/aarush_thapa_/
+[facebook]: https://www.facebook.com/aarush.thapa
+[behance]: https://www.behance.net/aarushthapa
