@@ -8,7 +8,7 @@
 - I am currently learning more about python programming
 
 ## Connect with me
-* 
+* [Portfolio](website)
 * [LinkedIn](linkedin)
 * [Instagram](instagram)
 * [Facebook](facebook)
