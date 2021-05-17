@@ -1,3 +1,4 @@
+
 # Hello!
 
 ## I am [Aarush Thapa](website)
@@ -8,13 +9,16 @@
 - I am currently learning more about python programming
 
 ## Connect with me
-* [Portfolio](website)
-* [LinkedIn](linkedin)
-* [Instagram](instagram)
-* [Facebook](facebook)
-* [Behance](behance)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+](linkedin) 
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+](instagram)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
+](facebook)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />
+](behance)
 
-<br>
+___
 
 ### Language and Tools
 * Python, Javascript, Java
@@ -26,7 +30,9 @@
 * Docker 
 
 ___
+
 ![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarushThapa&count_private=true&show_icons=true&theme=radical)
+
 
 [website]: https://aarushthapa.com.np/
 [linkedin]: https://www.linkedin.com/in/aarush-thapa/
