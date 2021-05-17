@@ -1,7 +1,7 @@
 
 # Hello!
 
-## I am [Aarush Thapa](website)
+## I am [Aarush Thapa](https://aarushthapa.com.np/)
 
 ### I am a Software Developer, Creator and a musician
 
@@ -10,13 +10,13 @@
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-](linkedin) 
+](https://www.linkedin.com/in/aarush-thapa/) 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-](instagram)
+](https://www.instagram.com/aarush_thapa_/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
-](facebook)
+](https://www.facebook.com/aarush.thapa)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />
-](behance)
+](https://www.behance.net/aarushthapa)
 
 ___
 
@@ -32,10 +32,3 @@ ___
 ___
 
 ![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarushThapa&count_private=true&show_icons=true&theme=radical)
-
-
-[website]: https://aarushthapa.com.np/
-[linkedin]: https://www.linkedin.com/in/aarush-thapa/
-[instagram]: https://www.instagram.com/aarush_thapa_/
-[facebook]: https://www.facebook.com/aarush.thapa
-[behance]: https://www.behance.net/aarushthapa
