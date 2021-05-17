@@ -31,4 +31,4 @@ ___
 
 ___
 
-![Aarush's GitHub stats](https://github-readme-stats-aarushthapa.vercel.app/api?username=AarushTHapa&show_icons=true&include_all_commits=true&count_private=True&theme=radical)
+![Aarush's GitHub stats](https://github-readme-stats-aarushthapa.vercel.app/api?username=AarushThapa&show_icons=true&include_all_commits=true&count_private=True&theme=radical)
