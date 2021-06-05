@@ -5,7 +5,7 @@
 
 ### I am a Software Developer, Creator and a musician
 
-- I am currently involved in developing Django Applications
+- I am currently involved in developing Django, Flutter and React Apps.
 - I am currently learning more about python programming
 
 ## Connect with me
