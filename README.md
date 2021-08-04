@@ -3,7 +3,7 @@
 
 ## I am [Aarush Thapa](https://aarushthapa.com.np/)
 
-### I am a Software Developer, a Creator and a Music Lover
+### I am a Software Developer, a Storyteller and a Music Lover
 
 - I am currently involved in developing Django, Flutter and React Apps.
 - I am currently learning more about python programming
