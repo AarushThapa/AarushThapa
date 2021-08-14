@@ -6,7 +6,7 @@
 ### I am a Software Developer, a Story Enthusiast and a Music Lover
 
 - I am currently involved in developing Django, Flutter and React Apps.
-- I am currently learning more about python programming
+- I am currently learning more about python programming.
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
