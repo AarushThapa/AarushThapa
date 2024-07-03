@@ -3,10 +3,10 @@
 
 ## I am [Aarush Thapa](https://aarushthapa.com.np/)
 
-### I am a Software Developer, a Story Enthusiast and a Music Lover
+### I am a Software Engineer, a Story Enthusiast and a Music Lover
 
-- I am currently involved in developing Django projects.
-- I love SAAS softwares
+- I am currently involved in developing Android projects.
+- I love SAAS software
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
@@ -21,10 +21,9 @@
 ___
 
 ### Language and Tools
-* Python, Javascript,
-* Django Framework, Node JS
-* React JS
-* MySQL, PostgreSQL, SQLite
+* Django, React JS
+* Android with Java and Kotlin
+* MySQL, PostgreSQL
 * REST API 
 * AWS, Heroku
 * Docker 
