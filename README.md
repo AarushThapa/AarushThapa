@@ -7,6 +7,7 @@
 
 - I am currently involved in developing Android projects.
 - I love SAAS software
+- I am currently studying the basics of SE. (Yes, Again)
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
@@ -26,7 +27,12 @@ ___
 * MySQL, PostgreSQL
 * REST API 
 * AWS, Heroku
-* Docker 
+
+### Experience
+* Mobile Application Development using Flutter, now migrated to Kotlin for native development
+* Developing Web Apps / API with Django (Core Expertise)
+* Image Processing with OpenCV - Yes, Python mostly
+* AI - Neural Network (I cannot create an architecture but I can use it) peace out!
 
 ___
 
