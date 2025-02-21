@@ -5,8 +5,9 @@
 
 ### I am a Software Engineer, a Story Enthusiast and a Music Lover
 
-- I am currently involved in developing Android projects.
+- I am currently involved in developing Django and ROR projects.
 - I love SAAS software
+- Mostly involved in B2B Projects
 
 ## Open Source Contribution
 1. [Number to Nepali/Hindi Word Converter](https://pypi.org/project/num2wordsnepalihindi/)
@@ -23,18 +24,25 @@
 
 ___
 
-### Language and Tools
-* Django, React JS
-* Android with Java and Kotlin
-* MySQL, PostgreSQL
-* REST API 
-* AWS, Heroku
+### Currently used Language and Tools
+* Ruby on Rails, Django (yup, it's weird why both) (ROR because "work", Django because it's for me)
+* PostgreSQL - Because why not, SQLite (well my fav)
+* HTMX (love this)
+* Tailwind, Bootstrap
+* Ubuntu, WSL
+* Vim
 
-### Experience
-* Mobile Application Development using Flutter, now migrated to Kotlin for native development
-* Developing Web Apps / API with Django (Core Expertise)
-* Image Processing with OpenCV - Yes, Python mostly
-* AI - Neural Network (I cannot create an architecture but I can use it) peace out!
+### Previously used Languages and Tools
+* Android with Java and Kotlin
+* App Development with Kotlin
+* REST API
+* ReactJS
+* NuxtJs
+* MySQL, PostgreSQL, SQLite
+* AWS
+* OpenCV
+* VSCode (mostly)
+
 
 ___
 
